@@ -1,0 +1,42 @@
+{"round": 0, "t_start": 0.0, "t_end": 10.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 1, "t_start": 10.0, "t_end": 20.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 2, "t_start": 20.0, "t_end": 30.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 3, "t_start": 30.0, "t_end": 40.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 4, "t_start": 40.0, "t_end": 50.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 5, "t_start": 50.0, "t_end": 60.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 6, "t_start": 60.0, "t_end": 70.0, "rsus": {"rsu_0": ["veh2"], "rsu_1": [], "rsu_2": []}}
+{"round": 7, "t_start": 70.0, "t_end": 80.0, "rsus": {"rsu_0": ["veh2"], "rsu_1": [], "rsu_2": []}}
+{"round": 8, "t_start": 80.0, "t_end": 90.0, "rsus": {"rsu_0": ["veh2"], "rsu_1": [], "rsu_2": []}}
+{"round": 9, "t_start": 90.0, "t_end": 100.0, "rsus": {"rsu_0": ["veh2", "veh4"], "rsu_1": ["veh1"], "rsu_2": []}}
+{"round": 10, "t_start": 100.0, "t_end": 110.0, "rsus": {"rsu_0": ["veh2", "veh4"], "rsu_1": ["veh1", "veh7"], "rsu_2": []}}
+{"round": 11, "t_start": 110.0, "t_end": 120.0, "rsus": {"rsu_0": ["veh4"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
+{"round": 12, "t_start": 120.0, "t_end": 130.0, "rsus": {"rsu_0": ["veh4"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
+{"round": 13, "t_start": 130.0, "t_end": 140.0, "rsus": {"rsu_0": ["veh4", "veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
+{"round": 14, "t_start": 140.0, "t_end": 150.0, "rsus": {"rsu_0": ["veh4", "veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0", "veh4"]}}
+{"round": 15, "t_start": 150.0, "t_end": 160.0, "rsus": {"rsu_0": ["veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0", "veh4"]}}
+{"round": 16, "t_start": 160.0, "t_end": 170.0, "rsus": {"rsu_0": ["veh7", "veh9"], "rsu_1": ["veh2"], "rsu_2": ["veh4"]}}
+{"round": 17, "t_start": 170.0, "t_end": 180.0, "rsus": {"rsu_0": ["veh6"], "rsu_1": ["veh2"], "rsu_2": ["veh4"]}}
+{"round": 18, "t_start": 180.0, "t_end": 190.0, "rsus": {"rsu_0": ["veh6"], "rsu_1": ["veh5"], "rsu_2": ["veh4"]}}
+{"round": 19, "t_start": 190.0, "t_end": 200.0, "rsus": {"rsu_0": ["veh3", "veh6"], "rsu_1": ["veh5"], "rsu_2": []}}
+{"round": 20, "t_start": 200.0, "t_end": 210.0, "rsus": {"rsu_0": ["veh3", "veh6"], "rsu_1": ["veh5"], "rsu_2": []}}
+{"round": 21, "t_start": 210.0, "t_end": 220.0, "rsus": {"rsu_0": ["veh3"], "rsu_1": ["veh5"], "rsu_2": []}}
+{"round": 22, "t_start": 220.0, "t_end": 230.0, "rsus": {"rsu_0": ["veh3"], "rsu_1": ["veh5"], "rsu_2": []}}
+{"round": 23, "t_start": 230.0, "t_end": 240.0, "rsus": {"rsu_0": ["veh5"], "rsu_1": ["veh6"], "rsu_2": ["veh8"]}}
+{"round": 24, "t_start": 240.0, "t_end": 250.0, "rsus": {"rsu_0": ["veh5"], "rsu_1": ["veh6"], "rsu_2": ["veh8"]}}
+{"round": 25, "t_start": 250.0, "t_end": 260.0, "rsus": {"rsu_0": ["veh5"], "rsu_1": [], "rsu_2": ["veh8"]}}
+{"round": 26, "t_start": 260.0, "t_end": 270.0, "rsus": {"rsu_0": ["veh5"], "rsu_1": [], "rsu_2": ["veh8"]}}
+{"round": 27, "t_start": 270.0, "t_end": 280.0, "rsus": {"rsu_0": ["veh10"], "rsu_1": [], "rsu_2": ["veh8"]}}
+{"round": 28, "t_start": 280.0, "t_end": 290.0, "rsus": {"rsu_0": ["veh10"], "rsu_1": [], "rsu_2": ["veh8"]}}
+{"round": 29, "t_start": 290.0, "t_end": 300.0, "rsus": {"rsu_0": ["veh10"], "rsu_1": [], "rsu_2": ["veh8"]}}
+{"round": 30, "t_start": 300.0, "t_end": 310.0, "rsus": {"rsu_0": ["veh10"], "rsu_1": [], "rsu_2": []}}
+{"round": 31, "t_start": 310.0, "t_end": 320.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 32, "t_start": 320.0, "t_end": 330.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 33, "t_start": 330.0, "t_end": 340.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 34, "t_start": 340.0, "t_end": 350.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 35, "t_start": 350.0, "t_end": 360.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 36, "t_start": 360.0, "t_end": 370.0, "rsus": {"rsu_0": [], "rsu_1": ["veh10"], "rsu_2": []}}
+{"round": 37, "t_start": 370.0, "t_end": 380.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 38, "t_start": 380.0, "t_end": 390.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 39, "t_start": 390.0, "t_end": 400.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 40, "t_start": 400.0, "t_end": 410.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
+{"round": 41, "t_start": 410.0, "t_end": 420.0, "rsus": {"rsu_0": [], "rsu_1": [], "rsu_2": []}}
