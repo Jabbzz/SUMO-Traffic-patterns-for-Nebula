@@ -12,7 +12,7 @@
 {"round": 11, "t_start": 110.0, "t_end": 120.0, "rsus": {"rsu_0": ["veh4"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
 {"round": 12, "t_start": 120.0, "t_end": 130.0, "rsus": {"rsu_0": ["veh4"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
 {"round": 13, "t_start": 130.0, "t_end": 140.0, "rsus": {"rsu_0": ["veh4", "veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
-{"round": 14, "t_start": 140.0, "t_end": 150.0, "rsus": {"rsu_0": ["veh4", "veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0"]}}
+{"round": 14, "t_start": 140.0, "t_end": 150.0, "rsus": {"rsu_0": ["veh4", "veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0", "veh4"]}}
 {"round": 15, "t_start": 150.0, "t_end": 160.0, "rsus": {"rsu_0": ["veh9"], "rsu_1": ["veh2", "veh7"], "rsu_2": ["veh0", "veh4"]}}
 {"round": 16, "t_start": 160.0, "t_end": 170.0, "rsus": {"rsu_0": ["veh7", "veh9"], "rsu_1": ["veh2"], "rsu_2": ["veh4"]}}
 {"round": 17, "t_start": 170.0, "t_end": 180.0, "rsus": {"rsu_0": ["veh6"], "rsu_1": ["veh2"], "rsu_2": ["veh4"]}}

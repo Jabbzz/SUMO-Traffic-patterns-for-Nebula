@@ -1,4 +1,4 @@
-round,t_start,t_end,vehicles_seen_count,vehicles_connected_count,uncovered_vehicle_time_s
+round,t_start,t_end,unique_vehicles_seen,unique_connected_vehicles,uncovered_vehicle_time_s
 0,0.0,10.0,1,0,8.0
 1,10.0,20.0,2,0,13.0
 2,20.0,30.0,2,0,20.0
